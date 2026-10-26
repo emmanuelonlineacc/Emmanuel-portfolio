@@ -1,0 +1,1 @@
+Extract this ZIP and open index.html in your browser. You can also open the folder in VS Code and use Live Server. Edit index.html for content, style.css for styling and script.js for interactions. Assets include the CV, images, videos and music. Mobile navigation links are displayed directly; there is no hamburger menu.
